@@ -7,7 +7,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardR
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Bot Configuration
-BOT_TOKEN = "8531656172:AAE-PQtP850ptO5QKVUcyy89OEtA6GNf_yw"
+BOT_TOKEN = "8560440770:AAE8pKJokne56YH6yYOUbVcnMgNYA-zaffw"
 PASSWORD = "RLSMS"
 AUTH_FILE = "authenticated_users.json"
 BANNED_FILE = "banned_users.json"
